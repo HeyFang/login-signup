@@ -3,7 +3,7 @@
 - create a new db named "login_register".
 - create a table named "users".
 - create 4 columns:
-    - id(primary)
+    - id(primary) #make sure to check auto_increment(A_I) box. 
     - full_name
     - email
     - password
