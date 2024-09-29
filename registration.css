@@ -1,7 +1,7 @@
 body{
     padding: 50px !important;
-    background-color: #333; /* Dark background */
-    color: #fff; /* White text */
+    background-color: #333; 
+    color: #fff; 
 }
 
 #registration-form{
@@ -9,8 +9,8 @@ body{
     margin: 0 auto !important;
     padding: 50px !important;
     box-shadow: rgba(61, 61, 67, 0.2) 0px 7px 29px 0px !important;
-    background-color: #444; /* Darker background for form */
-    color: #fff; /* White text */
+    background-color: #444; 
+    color: #fff;
 }
 
 .form-group{
@@ -18,13 +18,13 @@ body{
 }
 
 button {
-    background-color: #90ee90; /* Light green buttons */
-    color: #fff; /* White text */
+    background-color: #90ee90; 
+    color: #fff;
     border: none;
 }
 
 button:hover {
-    background-color: #7ccd7c; /* Darker green when hovered */
+    background-color: #7ccd7c; 
 }
 h1,h2{
     color: #90ee90;
